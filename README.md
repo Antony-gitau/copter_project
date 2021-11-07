@@ -5,13 +5,13 @@
 ---
 components used
 ---
-Arduino Uno and A-B cables
-Brushless motor and a single propellor
-Motor driver 
-Plug Adapter 
-M-M Jumper, F-M jumpers, F-F jumpers
-Breadboard 
-Power supply Module 
-Toggle switch 
-LEDs (1 red, 1 blue, 1 yellow, 1 green)
-Potentiometer 
+- Arduino Uno and A-B cables
+- Brushless motor and a single propellor
+- Motor driver 
+- Plug Adapter 
+- M-M Jumper, F-M jumpers, F-F jumpers
+- Breadboard 
+- Power supply Module 
+- Toggle switch 
+- LEDs (1 red, 1 blue, 1 yellow, 1 green)
+- Potentiometer 
