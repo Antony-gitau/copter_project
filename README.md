@@ -15,3 +15,12 @@ components used
 - Toggle switch 
 - LEDs (1 red, 1 blue, 1 yellow, 1 green)
 - Potentiometer 
+
+
+
+---
+team members
+---
+Antony M. Gitau
+Anita Samia
+Michael Ochieng
