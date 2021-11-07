@@ -16,11 +16,22 @@ components used
 - LEDs (1 red, 1 blue, 1 yellow, 1 green)
 - Potentiometer 
 
+---
+outline of the project
+---
+- checking the condition of the component.
+- designing the copter shaft
+- controlling the copter with a power source
+- controlling the copter with an arduino code
 
+---
+what was not done
+---
+- controlling the rising of the propeller with a feedback
 
 ---
 team members
 ---
-Antony M. Gitau
-Anita Samia
-Michael Ochieng
+- Antony M. Gitau
+- Anita Samia
+- Michael Ochieng
