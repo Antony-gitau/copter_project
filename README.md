@@ -10,8 +10,8 @@ Project Implementation strategy.
 ---
 - Acquiring component and implementing basic tests on them.
 - Designing the copter mounting shaft.
-- Controlling the copter with a power source
-- controlling the copter with an arduino code
+- Controlling the brushless motor with a power source. 
+- Designing an arduino code to control the rising of the propeller.
 
 ---
 Components we used:
