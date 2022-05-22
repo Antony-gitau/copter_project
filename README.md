@@ -1,37 +1,41 @@
-# copter_project
+# Copter Project
 
->This semester (Third year, 2nd semester), I am taking a control class. in groups of three, we get to create a copter. this marks the first commit which was aimed to test our components. we did the blink project on arduino.
+> This is my work (together with my two team members) during the third year, 2nd semester taking a class in controls.  The main objectives of doing this project were:
+> 1. To learn how control systems work by actually designing, implementing and testing our project.
+> 2. To appreciate the control principles taught in theoritical class.
+> 3. To earn academic credits for our efforts.
 
 ---
-components used
+Project Implementation strategy.
 ---
-- Arduino Uno and A-B cables
-- Brushless motor and a single propellor
+- Acquiring component and implementing basic tests on them.
+- Designing the copter mounting shaft.
+- Controlling the copter with a power source
+- controlling the copter with an arduino code
+
+---
+Components we used:
+---
+- Arduino Uno
+- Brushless motor 
+- Propellor
 - Motor driver 
-- Plug Adapter 
-- M-M Jumper, F-M jumpers, F-F jumpers
+- Jumper cables (mostly male-female and male-male)
 - Breadboard 
 - Power supply Module 
 - Toggle switch 
 - LEDs (1 red, 1 blue, 1 yellow, 1 green)
 - Potentiometer 
 
----
-outline of the project
----
-- checking the condition of the component.
-- designing the copter shaft
-- controlling the copter with a power source
-- controlling the copter with an arduino code
 
 ---
 what was not done
 ---
-- controlling the rising of the propeller with a feedback
+- Using feedback to control how high the copter gets.
 
 ---
-team members
+Team members
 ---
-- Antony M. Gitau
+- Antony M. Gitau - Team Lead.
 - Anita Samia
 - Michael Ochieng
