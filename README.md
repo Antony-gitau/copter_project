@@ -1,9 +1,9 @@
 # Copter Project
 
-> This is my work (together with my two team members) during the third year, 2nd semester taking a class in controls.  The main objectives of doing this project were:
-> 1. To learn how control systems work by actually designing, implementing and testing our project.
-> 2. To appreciate the control principles taught in theoritical class.
-> 3. To earn academic credits for our efforts.
+> This is my work (together with two other team members) during the third year, 2nd semester  control systems class.  The main objectives of this project were:
+> 1. To learn how control systems by actually designing, implementing and testing a project.
+> 2. To appreciate the control system principles/concepts taught in theoritical class.
+> 3. To earn academic credits for our efforts in this work.
 
 ---
 Project Implementation strategy.
